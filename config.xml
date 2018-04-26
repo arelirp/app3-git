@@ -12,7 +12,7 @@
  </description>
  
  <author href="https://build.phonegap.com" email="areli.rojas.1g@gmail.com">
-  Datos del autor
+  Areli Rojas Pérez
  </author>
  
  <!--personaliza la aplicacion y plataforma -->
@@ -40,7 +40,7 @@
   <acces origin="https://*/*"/>
   <allow-intent href="http://*/*"/>
   <acces origin="http://*/*"/>
-  <plugin name="cordova-plugin-whitelist"source="npm"/>
+  <plugin name="cordova-plugin-whitelist" source="npm"/>
   
  <!--colocar icono app-->
  <icon src="res/android/mdpi.png" />
